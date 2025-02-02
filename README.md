@@ -30,6 +30,7 @@ The model is trained and tested with different learning rates over multiple epoc
 Implement different activation functions.
 Experiment with another different sizes of hidden layer.
 Experiment with deeper architectures (multiple hidden layers).
+Improve running time.
 
 ## Inspiration, code snippets, etc.
 Tariq Rashid's "Make Your Own Neural Network"
