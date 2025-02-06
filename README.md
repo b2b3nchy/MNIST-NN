@@ -21,7 +21,7 @@ The network is trained using the MNIST dataset, where each image is converted in
 Forward Pass: Compute weighted inputs and activations for each layer.
 Backward Pass (Backpropagation): Calculate errors and adjust weights using gradient descent.
 Updating Weights: Apply learning rate to optimize weight adjustments.
-Testing: Evaluate performance on test data after each epoch.\
+Testing: Evaluate performance on test data after each epoch.
 
 ## Implementation
 The model is trained and tested with different learning rates over multiple epochs, tracking performance dynamically to find the optimum learning rate and number of epochs.
